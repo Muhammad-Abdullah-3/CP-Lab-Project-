@@ -1,8 +1,8 @@
 # CP-Lab-Project-
-Expense Tracker &amp; Budget Advisor for Individuals.
+Expense Tracker and To do List; Manager for Students.
 
-Remaining Stuff (Last update Date: 20 - May - 2025)
+Remaining Stuff (Last update Date: 28 - May - 2025)
 
-Debugging ....
+Programming...
 ------------------------------------------------------------------------
-Completed For Lab Project
+
